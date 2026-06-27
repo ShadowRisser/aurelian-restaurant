@@ -1,0 +1,6 @@
+:HL["/aurelian-restaurant/_next/static/chunks/3d70ee1586ade588.css","style"]
+:HL["/aurelian-restaurant/_next/static/chunks/ed63d1313fc52ca3.css","style"]
+:HL["/aurelian-restaurant/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/aurelian-restaurant/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/aurelian-restaurant/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"9dxyGiSYxdD6JM7DxKJgD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
